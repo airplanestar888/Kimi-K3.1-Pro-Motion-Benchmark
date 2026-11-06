@@ -1,0 +1,9 @@
+# Dependencies — restore with `npm install`
+node_modules/
+
+# Intermediate render frames — regenerate with `node record.js`
+frames/
+
+# OS cruft
+.DS_Store
+Thumbs.db
